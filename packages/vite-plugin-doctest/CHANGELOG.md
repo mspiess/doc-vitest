@@ -1,5 +1,15 @@
 # vite-plugin-doctest
 
+## 3.0.0
+
+### Major Changes
+
+- [`6a2ec33`](https://github.com/ssssota/doc-vitest/commit/6a2ec3351b0c91aa5751964325ae6c770f21a93e) Thanks [@mspiess](https://github.com/mspiess)! - Update minimum version of all peer dependencies:
+
+  - Version of `vite` must be 8.0.0 or later
+  - Version of `vitest` must be 4.1.0 or later
+  - Version of `typescript` must be 5.0.0 or later
+
 ## 2.0.0
 
 ### Major Changes
